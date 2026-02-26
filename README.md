@@ -1,2 +1,2 @@
 # content
-YSM Public's Notes to anyone she chooses to. Written with Joplin.
+These are notes taken by YSM using the Joplin note-taking app. Published here on GitHub to share with anyone she chooses.
